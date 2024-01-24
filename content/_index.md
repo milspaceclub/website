@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: MilSpace Club
-      text: 🚧 Site under construction 🚧
+      text: 🚧 Site under construction 🚧 Click __[here](https://forms.gle/qd9thGcsRcts5gYr7)__ to sign up for our mailing list.
 #      primary_action:
 #        text: Get Started
 #        url: https://hugoblox.com/templates/
