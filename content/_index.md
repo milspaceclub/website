@@ -11,11 +11,11 @@ sections:
   - block: hero
     content:
       title: MilSpace Club
-      text: 🚧 Site under construction 🚧 Click __[here](https://forms.gle/qd9thGcsRcts5gYr7)__ to sign up for our mailing list.
-#      primary_action:
-#        text: Get Started
-#        url: https://hugoblox.com/templates/
-#        icon: rocket-launch
+      text: 🚧 Site under construction 🚧
+      primary_action:
+        text: Mailing List
+        url: https://forms.gle/qd9thGcsRcts5gYr7
+        icon: rocket-launch
 #      secondary_action:
 #        text: Read the docs
 #        url: https://docs.hugoblox.com
