@@ -10,11 +10,12 @@ design:
 sections:
   - block: hero
     content:
-      title: MilSpace Club
-      text: 🚧 Site under construction 🚧
+      title: "![Swoosh Logo](logo-swoosh-light.png)"
+      text: |
+        The MilSpace Club is a fresh take on spouse clubs focusing on the Los Angeles Air & Space community. Our wish is to create a space home and new traditions. Our hope is to create the next chapter of social events for the LA Space Community.
       primary_action:
-        text: Mailing List
-        url: https://forms.gle/qd9thGcsRcts5gYr7
+        text: Join Now
+        url: https://forms.gle/3zzuRioefkpKgzDy9
         icon: rocket-launch
 #      secondary_action:
 #        text: Read the docs
@@ -36,6 +37,14 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Connect with us on Facebook
+          icon: brands/facebook
+          url: https://www.facebook.com/profile.php?id=61555989416023
 #  - block: stats
 #    content:
 #      items:

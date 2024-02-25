@@ -6,6 +6,15 @@ main:
   - name: Home
     url: /#top
     weight: 10
+  - name: About
+    url: about/
+    weight: 20
+  - name: Docs
+    url: docs/
+    weight: 30
+  - name: Events
+    url: events/
+    weight: 40
 #  - name: Features
 #    url: /#features
 #    weight: 20
