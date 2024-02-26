@@ -15,7 +15,8 @@ main:
   - name: Events
     url: events/
     weight: 40
-  - name: Facebook
+  - identifier: facebok
+    pre: <i class="fa-brands fa-facebook"></i>
     url: https://www.facebook.com/profile.php?id=61555989416023
     weight: 50
 #  - name: Features
