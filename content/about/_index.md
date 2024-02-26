@@ -21,7 +21,7 @@ show_related: false
 
 - Lauren Bailey, Parliamentarian
 - Sabrina Dalton, Membership & Inclusivity Director
-- Courtney Travagaglini, Philanthropic Director
+- Courtney Travaglini, Philanthropic Director
 
 ### Honorary Advisors
 

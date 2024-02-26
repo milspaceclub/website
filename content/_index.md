@@ -13,6 +13,10 @@ sections:
       title: "![Swoosh Logo](logo-swoosh-light.png)"
       text: |
         The MilSpace Club is a fresh take on spouse clubs focusing on the Los Angeles Air & Space community. Our wish is to create a space home and new traditions. Our hope is to create the next chapter of social events for the LA Space Community.
+
+        &nbsp;
+        
+        Join now and receive a FREE membership trial, now through July 31, 2024!
       primary_action:
         text: Join Now
         url: https://forms.gle/3zzuRioefkpKgzDy9
