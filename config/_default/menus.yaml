@@ -6,6 +6,19 @@ main:
   - name: Home
     url: /#top
     weight: 10
+  - name: About
+    url: about/
+    weight: 20
+  - name: Docs
+    url: docs/
+    weight: 30
+  - name: Events
+    url: events/
+    weight: 40
+  - identifier: facebok
+    pre: <i class="fa-brands fa-facebook"></i>
+    url: https://www.facebook.com/profile.php?id=61555989416023
+    weight: 50
 #  - name: Features
 #    url: /#features
 #    weight: 20

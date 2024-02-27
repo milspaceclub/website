@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+  mode: system
+  color: milspace
 
 # SEO
 marketing:
@@ -34,20 +34,21 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "MilSpace Club"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
-      enable: false
-      text: "Get Started"
-      url: ""
+      enable: true
+      text: "Join Now"
+      url: "https://forms.gle/3zzuRioefkpKgzDy9"
     show_search: false
     show_theme_chooser: true
+    highlight_active_link: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} MilSpace Club'
+    notice: '© {year} MilSpace Club. This is a private organization. It is not a part of the Department of Defense or any of its components and it has no governmental status.'
 
 # Localization
 locale:
