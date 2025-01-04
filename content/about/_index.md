@@ -45,18 +45,16 @@ _For those who wish to join but might encounter a financial hardship to do so, p
 
 ### Board Roster
 
-#### Executive Board
+#### Board
 
-- Kelly Rich, President
-- Brooke Hughes, Vice President
-- Andy Roth, Webmaster
-- Jon Reabe, Treasurer
-
-#### Board Members
-
-- Lauren Bailey, Parliamentarian
-- Sabrina Dalton, Membership & Inclusivity Director
-- Courtney Travaglini, Philanthropic Director
+- President - Kelly Rich
+- Vice President - Brooke Hughes
+- Treasurer - Jessica Tullino
+- Secretary - Amy Rosander
+- Webmaster - Andy Roth
+- Parliamentarian - Lauren Bailey
+- Membership & Inclusivity - Courtney Travaglini
+- Community Liaison - Sabrina Dalton
 
 #### Honorary Advisors
 
