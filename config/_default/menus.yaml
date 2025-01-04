@@ -7,9 +7,19 @@ main:
     url: /#top
     weight: 10
   - name: About
-    url: about/
+#    url: about/
     weight: 20
-  - name: Docs
+    hasChildren: true
+  - parent: About
+    name: About Us
+    url: about/
+    weight: 10
+  - parent: About
+    name: Purpose & Mission Statement
+    url: purposeandmissionstatement/
+    weight: 20
+  - parent: About
+    name: Docs
     url: docs/
     weight: 30
   - name: Events
