@@ -12,7 +12,7 @@ show_related: false
 
 ### Purpose
 
-The purpose of the MSC is to promote social, cultural, philanthropic, and recreational activities among its members of the MSC by cultivating connections and fostering a strong sense of community within the entire LA SFB community. This includes active engagements with neighbors, organizing community walks to strengthen connections, championing inclusivity, facilitating the development of a closely-knit community, and supporting the establishment of special interest groups.
+The purpose of the MSC is to promote social, cultural, philanthropic, and recreational activities among its members of the MSC by cultivating connections and fostering a strong sense of community within the entire LA AFB community. This includes active engagements with neighbors, organizing community walks to strengthen connections, championing inclusivity, facilitating the development of a closely-knit community, and supporting the establishment of special interest groups.
 
 ### Mission Statement
 
